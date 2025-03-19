@@ -14,6 +14,8 @@ After completing the downloading, move these file to correct file path.
 * Move MeteoDiff's processed datasets to **/MeteoDiff**, change the **data_dir** in **MeteoDiff/configs/baseline.yaml** to **MeteoDiff/process_data_1D-ENV-ERA5-ALL-WE-NEED-vocen-vodis**
 * Move MeteoDiff's checkpoint to **/MeteoDiff/experiment/MeteoDiff_ori**
 
+If you want to process the data yourself, the processing code of TC tilt metrics can be found in **MeteoDiff/process_data_1D-ENV-ERA5-ALL-WE-NEED-vocen-vodis.py**.
+
 ## Train
 ```python
 ## change the eval_mode in MeteoDiff/configs/baseline.yaml to False ##
