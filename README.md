@@ -7,7 +7,7 @@ This is the code of MeteoDiff, a Generative AI with Physics-Driven Meteorologica
 
 ## Data Preparation
 First, we need to download all the data we used in MeteoDiff.
-* MeteoDiff's processed datasets[part1](https://drive.google.com/file/d/1XpfByEZkZHAybXgB5p2YsR5KZhHrtVei/view?usp=drive_link) and [part2](https://drive.google.com/file/d/1aiJaUH035YOIbsS9Q1Y9GGmyKW1HiJU1/view?usp=drive_link)
+* MeteoDiff's processed datasets [part1](https://drive.google.com/file/d/1XpfByEZkZHAybXgB5p2YsR5KZhHrtVei/view?usp=drive_link) and [part2](https://drive.google.com/file/d/1aiJaUH035YOIbsS9Q1Y9GGmyKW1HiJU1/view?usp=drive_link)
 * MeteoDiff's [checkpoint](https://drive.google.com/file/d/1H8RKJU_p1vFmIcP5gghg1BMB7oBJ8_zI/view?usp=drive_link)
 
 After completing the downloading, move these file to correct file path.
